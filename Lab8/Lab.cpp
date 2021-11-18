@@ -18,4 +18,4 @@ int main()
 		cout << x << setw(3) << y << endl;
 		x += h;
 	};
-}
+}//gogo
